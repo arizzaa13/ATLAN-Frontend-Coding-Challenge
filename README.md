@@ -1,6 +1,6 @@
 # Atlan Front End Coding Challenge
 
-> To create, design and implement a web-based application capable of running SQL queries and displaying the results of said query. The application must include a space which accepts SQL queries in the form of user inputs, then runs the given query, and displays the result within the application.
+> Given the recent surge in interest in AI models and LLMs, tasked with building an application that showcases the various models deployed by organisations and developers alike.
 
 ### Hosted at: https://karthic-atlan-coding-challenge.netlify.app/
 
