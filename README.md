@@ -49,11 +49,3 @@ I used Chrome Dev Tool's `Performance Insights` to measure perceived load time. 
 |---|---|
 |![image](https://github.com/arizzaa13/ATLAN-Frontend-Coding-Challenge/assets/78647475/4d0d6b92-f1c9-428e-a43b-485ebc72ccc3) | ![image](https://github.com/arizzaa13/ATLAN-Frontend-Coding-Challenge/assets/78647475/91884b18-9c9c-4b96-96a9-59ef6da877a0) |
 
-
-### 6. Dealing with large outputs
-- The application was able to successfully load a large number of rows, using data from https://github.com/graphql-compose/graphql-compose-examples/blob/master/examples/northwind/data/json/orders.json
-- Sample query to run `select * from orders`;
-
-|  Query with large output |   Query with large output with scrolling |
-|---|---|
-| ![localhost_3002_(iPad) (8)](https://user-images.githubusercontent.com/8691395/171368792-89c35ff7-7b07-4f35-99ba-f2fe4ecd3b00.png) |  ![ezgif-5-2ee24cd932](https://user-images.githubusercontent.com/8691395/171369275-68fd243c-b8e8-4e00-acda-ee4974172921.gif) |
