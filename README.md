@@ -31,9 +31,7 @@ I used Chrome Dev Tool's `Performance Insights` to measure perceived load time. 
 
 |   |   |
 |---|---|
-| During my testing (on a DELL Inspiron I5 3000 Interl core), the score I got was between **0.93** (always under 0.95s)   |  ![image](https://github.com/arizzaa13/ATLAN-Frontend-Coding-Challenge/assets/78647475/fa5b07a6-86d6-48ec-8c45-b369056a499b)
-
- |
+| During my testing (on a DELL Inspiron I5 3000 Interl core), the score I got was between **0.93** (always under 0.95s)   |  ![image](https://github.com/arizzaa13/ATLAN-Frontend-Coding-Challenge/assets/78647475/fa5b07a6-86d6-48ec-8c45-b369056a499b) |
 
 
 ----------
@@ -49,9 +47,7 @@ I used Chrome Dev Tool's `Performance Insights` to measure perceived load time. 
 
 | Main Page Layout  | Middle Section |
 |---|---|
-|![image](https://github.com/arizzaa13/ATLAN-Frontend-Coding-Challenge/assets/78647475/4d0d6b92-f1c9-428e-a43b-485ebc72ccc3)
- | ![image](https://github.com/arizzaa13/ATLAN-Frontend-Coding-Challenge/assets/78647475/91884b18-9c9c-4b96-96a9-59ef6da877a0)
- |
+|![image](https://github.com/arizzaa13/ATLAN-Frontend-Coding-Challenge/assets/78647475/4d0d6b92-f1c9-428e-a43b-485ebc72ccc3) | ![image](https://github.com/arizzaa13/ATLAN-Frontend-Coding-Challenge/assets/78647475/91884b18-9c9c-4b96-96a9-59ef6da877a0) |
 
 
 ### 6. Dealing with large outputs
