@@ -11,28 +11,21 @@
 | Breakdown  |   |
 |---|---|
 | Ideation 💡  |  The challenge as I saw it was have been tasked with building an application that showcases the various models deployed by organisations and developers alike.Having Interest in AI related content I was very excited to work on such kind ofinterface bilding Task  |
-| Design 🧑🏻‍🎨  | The most intuitive way to develop this application was with a `Main Page layout` - with clear sections for Home, Models, Case Studies, Resources, Contact. With having a Main Heading at the Middle of the site "Explore AI Models" makes user interested to go through the complete website. After this users can see some of the models that they are shown at the screen and cam follow to choose a right Subscription plan .After this there is a FAQ section which contains some common questions on AI Models |
-| Implementation ⚒️   |  With a focus on usability and functionality, I decided to add prompts, prominently place the `Run` and `Clear` buttons. I also decided to add some CSS rules explicitly make the SQL input look like a `code block`. The output is rendered as a HTML table which is easy for everyone to read and understand |
-
+| Design 🧑🏻‍🎨  | The most intuitive way to develop this application was with a `Main Page layout` - with clear sections for Home, Models, Case Studies, Resources, Contact. With having a Main Heading at the Middle of the site "Explore AI Models" makes user interested to go through the complete website. After this users can see some of the models that they are shown at the screen and can follow to choose a right Subscription plan . After this there is a FAQ section which contains some common questions on AI Models |
+| Implementation ⚒️  |  With a focus on good Interface and Functionality, I decided to add different appropriate sections to the webpage, be it "Get Started" ,"Learn More","Login","Register" follwed by display of different models and different Subscription plans that users might be interested in and some common FAQ questions which makes the website more engaging to users. |
 
 ----------
-
 
 ### 2. Specification
 
 - JavaScript framework used = **React**
-- Major plugins used:
-  - **sass**: I wanted to use some of the features sass offers (like variables, mixins, etc) to be able create maintainable and reusable style rules
-
-
 ----------
-
 
 ### 3. Page load time
 
 I used Chrome Dev Tool's `Performance Insights` to measure perceived load time. The two metrics I looked are are: First Contentful Paint (FCP) and Largest Contentful Paint (LCP).
 - FCP is when the browser renders the first bit of content from the DOM, providing the first feedback to the user that the page is actually loading.
-- LCP is when the browser renders the largest visual pieces on the DOM, in our case this would be the dashboard layout, buttons, etc.
+- LCP is when the browser renders the largest visual pieces on the DOM, in our case this would be the Main page layout etc.
 - LCP < 2.5 seconds is absolutely must for a good user experience. Less than 1 second leads to great user experience.
 
 
