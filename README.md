@@ -31,7 +31,8 @@ I used Chrome Dev Tool's `Performance Insights` to measure perceived load time. 
 
 |   |   |
 |---|---|
-| During my testing (on a 2 GHz Quad-Core Intel Core i5 MBP), the score I got was between **0.2s - 0.3s** (always under 0.5s)   |  ![image](https://github.com/arizzaa13/ATLAN-Frontend-Coding-Challenge/assets/78647475/797d2368-f188-4822-b1c0-0059d1442bde)
+| During my testing (on a 2 GHz Quad-Core Intel Core i5 MBP), the score I got was between **0.2s - 0.3s** (always under 0.5s)   |  ![image](https://github.com/arizzaa13/ATLAN-Frontend-Coding-Challenge/assets/78647475/fa5b07a6-86d6-48ec-8c45-b369056a499b)
+
  |
 
 
