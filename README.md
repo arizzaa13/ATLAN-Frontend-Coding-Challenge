@@ -10,7 +10,7 @@
 
 | Breakdown  |   |
 |---|---|
-| Ideation 💡  |  The challenge as I saw it was have been tasked with building an application that showcases the various models deployed by organisations and developers alike.Having Interest in AI related content I was very excited to work on such kind ofinterface bilding Task  |
+| Ideation 💡  |  The challenge as I saw it was have been tasked with building an application that showcases the various models deployed by organisations and developers alike.Having Interest in AI related content I was very excited to work on such kind of interface building Task  |
 | Design 🧑🏻‍🎨  | The most intuitive way to develop this application was with a `Main Page layout` - with clear sections for Home, Models, Case Studies, Resources, Contact. With having a Main Heading at the Middle of the site "Explore AI Models" makes user interested to go through the complete website. After this users can see some of the models that they are shown at the screen and can follow to choose a right Subscription plan . After this there is a FAQ section which contains some common questions on AI Models |
 | Implementation ⚒️  |  With a focus on good Interface and Functionality, I decided to add different appropriate sections to the webpage, be it "Get Started" ,"Learn More","Login","Register" follwed by display of different models and different Subscription plans that users might be interested in and some common FAQ questions which makes the website more engaging to users. |
 
