@@ -2,9 +2,7 @@
 
 > Given the recent surge in interest in AI models and LLMs, tasked with building an application that showcases the various models deployed by organisations and developers alike.
 
-### Hosted at: https://karthic-atlan-coding-challenge.netlify.app/
-
-Sample query to run `select * from customers;`
+### Hosted at: https://mohdarman-atlanfrontendchallenge.netlify.app/
 
 ----------
 
@@ -12,8 +10,8 @@ Sample query to run `select * from customers;`
 
 | Breakdown  |   |
 |---|---|
-| Ideation 💡  |  The challenge as I saw it was to design and create a simple SQL client, that's capabale of running queries and displaying them. Having used a couple SQL clients in the pase, I tried to draw inspiration from these (Sequel Pro, etc).  |
-| Design 🧑🏻‍🎨  | The most intuitive way to develop this application was with a `Dashboard layout` - with clear sections for input/output, etc. With the additional prompt to be able to "toggle between queries", I leaned further into the Dashboard layout and used the sidebar to display the `history` of queries. Being able to always see the history of previous queries and click on them to view is far easier than a dropdown.  |
+| Ideation 💡  |  The challenge as I saw it was have been tasked with building an application that showcases the various models deployed by organisations and developers alike.Having Interest in AI related content I was very excited to work on such kind ofinterface bilding Task  |
+| Design 🧑🏻‍🎨  | The most intuitive way to develop this application was with a `Main Page layout` - with clear sections for input/output, etc. With the additional prompt to be able to "toggle between queries", I leaned further into the Dashboard layout and used the sidebar to display the `history` of queries. Being able to always see the history of previous queries and click on them to view is far easier than a dropdown.  |
 | Implementation ⚒️   |  With a focus on usability and functionality, I decided to add prompts, prominently place the `Run` and `Clear` buttons. I also decided to add some CSS rules explicitly make the SQL input look like a `code block`. The output is rendered as a HTML table which is easy for everyone to read and understand |
 
 
