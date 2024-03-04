@@ -47,9 +47,11 @@ I used Chrome Dev Tool's `Performance Insights` to measure perceived load time. 
 
 ### 5. Screengrabs
 
-| Starting state  | Query with output |
+| Main Page Layout  | Middle Section |
 |---|---|
-| ![image](https://user-images.githubusercontent.com/8691395/171362263-404ddf9c-2aed-4677-9d91-be6e659895a6.png) | ![image](https://user-images.githubusercontent.com/8691395/171362311-9bd4b604-dad8-4814-8456-745eb38742fd.png) |
+|![image](https://github.com/arizzaa13/ATLAN-Frontend-Coding-Challenge/assets/78647475/4d0d6b92-f1c9-428e-a43b-485ebc72ccc3)
+ | ![image](https://github.com/arizzaa13/ATLAN-Frontend-Coding-Challenge/assets/78647475/91884b18-9c9c-4b96-96a9-59ef6da877a0)
+ |
 
 
 ### 6. Dealing with large outputs
